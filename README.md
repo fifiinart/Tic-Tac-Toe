@@ -2,7 +2,7 @@
 
 Hello! This is a little project for creating in online Tic-Tac-Toe game using `p5.js`.
 
-This is not finished yet, but you can play what exists [here](./index.html):
+This is not finished yet, but you can play what exists [here](https://fifiinart.github.io/Tic-Tac-Toe/):
 
 Planned changes:
 
