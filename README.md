@@ -2,12 +2,12 @@
 
 Hello! This is a little project for creating in online Tic-Tac-Toe game using `p5.js`.
 
-This is not finished yet, but you can play what exists here:
-
-<iframe src = "./index.html" width = 500 height = 500></iframe>
+This is not finished yet, but you can play what exists [here](./index.html):
 
 Planned changes:
 
 * Actually playing the game
 * 2-player support
 * AI for one-player
+
+If you have any questions or concerns, you can say so at my [Discord Developer Server](https://discord.gg/JTB4Cq4).
