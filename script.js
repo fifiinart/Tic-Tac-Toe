@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(windowWidth / 2, windowHeight / 2);
+  createCanvas(windowWidth / 2, windowWidth / 2);
   background(255);
   strokeWeight(5);
   for (let i in table) {
